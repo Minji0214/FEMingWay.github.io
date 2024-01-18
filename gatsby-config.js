@@ -122,6 +122,13 @@ module.exports = {
       },
     },
     `gatsby-plugin-resolve-src`,
+    {
+      resolve: `gatsby-plugin-gtag`,
+      options: {
+        trackingId: `GTM-NPLZKZ6C`,
+        head: true,
+      },
+    },
     `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-feed`,
