@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-hoodie",
+  "name": "minjii blog",
   "private": false,
-  "description": "gatsby-starter-hoodie is a gatsby theme developed for developers to write tech blogs.",
-  "homepage": "https://devhudi.github.io/gatsby-starter-hoodie/",
+  "description": "FE 개발자 minjii의 블로그입니다.",
+  "homepage": "https://minji0214.github.io/mingjjiBlog.github.io/",
   "version": "0.2.0",
-  "author": "minji",
+  "author": "minjii",
   "dependencies": {
     "babel-eslint": "^10.1.0",
     "babel-plugin-styled-components": "^2.1.4",
